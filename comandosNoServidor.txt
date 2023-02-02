@@ -1,0 +1,57 @@
+    1  pwd
+    2  git clone https://github.com/anabeatriz2004/LABINFO22-23-RECURSO.git
+    3  ls 
+    4  cd LABINFO22-23-RECURSO
+    5  LS
+    6  ls
+    7  cd ~
+    8  cd LABINFO/LABINFO22-23-RECURSO
+    9  ls
+   10  mkdir aluno
+   11  ls
+   12  cd aluno
+   13  ls
+   14  ls
+   15  mv ../../../README.md README.md
+   16  mv LABINFO/LABINFO22-23-RECURSO/aluno/README.md README.md
+   17  TREE
+   18  cd ~
+   19* mv README.md
+   20  mv README.md  LABINFO/LABINFO22-23-RECURSO/aluno/README.md
+   21  tree
+   22  mv LABINFO/README.md  LABINFO/LABINFO22-23-RECURSO/aluno/README.md
+   23  TREE
+   24  tree
+   25  cd LABINFO/LABINFO22-23-RECURS
+   26  cd LABINFO/LABINFO22-23-RECURSo
+   27  cd LABINFO/LABINFO22-23-RECURSO
+   28  git add .
+   29  git commit -m "Tarefa 3 concluída"
+   30  git config --global user.email "vicente.anab@gmail.com"
+   31  git config --global user.name "Ana Beatriz Vicente"
+   32  git config --global user.email "vicente.anab@gmail.com"
+   33  git commit -m "Tarefa 3 concluída"
+   34  git push oringin main
+   35  git push
+   36  git init
+   37  git add .
+   38  git commit -m "Tarefa 3 concluída"
+   39  git push
+   40  git remote set-url origin https://NOMEDOSEN@github.com/USERNAME/OSEUREPOSITORIO.git
+   41  git remote set-url origin https://provafinal@github.com/anabeatriz2004/LABINFO22-23-RECURSO.git
+   42  git add .
+   43  git commit -m "Tarefa 3 concluida"
+   44  git push
+   45  git push
+   46  vi index.html
+   47  cat index.htl
+   48  cat index.html
+   49  git add .
+   50  git commit -m "Criação do ficheiro index.html"
+   51  git push
+   52  cd ~
+   53  history > comandosNoServidor.txt
+   54  cat comandosNoServidor.txt
+   55  cd LABINFO/LABINFO22-23
+   56  cd LABINFO/LABINFO22-23-RECURSO
+   57  history > comandosNoServidor.txt
